@@ -1,2 +1,2 @@
 FROM drupal:9.3
-COPY index.html /var/www/html/index.html
+COPY first-project /var/www/html
